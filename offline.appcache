@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1623840439
+#1623854791
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -8,6 +8,7 @@ images/gun_1-sheet0.png
 images/bullet_1-sheet0.png
 images/enemy_1-sheet0.png
 images/arrow_blast-sheet0.png
+images/pin-sheet0.png
 images/fireer-sheet0.png
 images/saw-sheet0.png
 images/fire.png
@@ -16,7 +17,10 @@ images/deleter.png
 images/finish.png
 images/colluser.png
 images/stars-sheet0.png
+images/bg_1-sheet0.png
+images/sprite-sheet0.png
 images/player-sheet0.png
+media/japanlogy.ogg
 icon-16.png
 icon-32.png
 icon-114.png
