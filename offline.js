@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1623861805,
+	"version": 1623862867,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -29,6 +29,7 @@
 		"images/load_1-sheet0.png",
 		"images/bg_2.png",
 		"images/load_2-sheet0.png",
+		"images/wall.png",
 		"images/player-sheet0.png",
 		"media/japanlogy.ogg",
 		"icon-16.png",
